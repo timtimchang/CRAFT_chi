@@ -1,5 +1,7 @@
 # CRAFT Chinese Version
-Detect horizontal and vertical text line automatically.
+reference: CRAFT (Character-Region Awareness For Text detection)
+
+overview: The detection of horizontal and vertical textline with training code.
 
 ```
 # train
